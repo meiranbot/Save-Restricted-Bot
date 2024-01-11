@@ -9,4 +9,8 @@
         "TOKEN": {"description": "Get The Bot Token From https://telegram.dog/BotFather"},
         "STRING": {"description": " For "}
     },
-    "buildpacks": [{"url": "heroku/python"}]
+    "buildpacks":
+        [
+            {"url": "heroku/python"}
+        ]      
+}
