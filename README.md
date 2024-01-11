@@ -1,5 +1,7 @@
 # Save Restricted Bot
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/Save-Restricted-Bot)
+
 *A Telegram Bot, Which can send you restricted content by it's post link*
 
 ---
