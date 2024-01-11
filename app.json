@@ -1,0 +1,12 @@
+{
+    "name": "Save-Restricted-Bot",
+    "description": "This Is A Telegram For Save Restricted",
+    "keywords": ["telegram", "Save-Restricted-Bot", "Bot"],
+    "repository": "://github.com/meiranbot/Save-Restricted-Bot",
+    "env": {
+        "ID": {"description": "Goto https://my.telegram.org To Obtain This."},
+        "HASH": {"description": "Goto https://my.telegram.org To Obtain This"},
+        "TOKEN": {"description": "Get The Bot Token From https://telegram.dog/BotFather"},
+        "STRING": {"description": " For "}
+    },
+    "buildpacks": [{"url": "heroku/python"}]
